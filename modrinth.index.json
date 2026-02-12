@@ -36,6 +36,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/xv94TkTM/versions/FaNppCJJ/Controlling-neoforge-1.21.1-19.0.5.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":77555,
+         "hashes":{
+            "sha1":"8a34424fc1428778be2fdbfa4da67b21b70bcbfe",
+            "sha512":"bd01b2a38a869ea38e5f2a8fcd601e67ea9b132b9883c6ae752bc35dff6e94f6d47b965e31c1ee5c2f6a1221653549680da779fcb5319d199aec261d221d179e"
+         },
+         "path":"mods/Controlling-neoforge-1.21.1-19.0.5.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/ziOp6EO8/versions/nQqU8c1K/Corgilib-NeoForge-1.21.1-5.0.0.7.jar"
          ],
          "env":{
@@ -111,6 +126,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/5ZwdcRci/versions/PhxY0iHw/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":368598,
+         "hashes":{
+            "sha1":"f1f5cccd7cb59d875f44566b2e557ccecc8c33fb",
+            "sha512":"93fb2685547f1c7d95b558b3b24efd53551b8ab6978b52483d2924a03de044e992669f83e2ee73f9ad1308035b932de431f4f662a971f496c7fdc55195aebd7b"
+         },
+         "path":"mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/ZVzW5oNS/versions/7mVvV9Th/Incendium_1.21.x_v5.4.4.jar"
          ],
          "env":{
@@ -138,6 +168,36 @@
             "sha512":"46a5e799b8123f03cabec30d439f30c65160ba835458e2b923beeecf312e6f2bcd8edc6010119cc22d53b2815d9b8ec8d34734649f75ed0ea11e0c199f707f03"
          },
          "path":"mods/JEFA-v1.0.1-[1.21.1].jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/nvQzSEkH/versions/yd8FKCmx/Jade-1.21.1-NeoForge-15.10.5.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":725742,
+         "hashes":{
+            "sha1":"d5bf134b3dbde9f5258666823900e21341dc0a50",
+            "sha512":"678b998677a3d73f98f82dac4093893bfc8a3c2335ec627b4147811c381a040475decdb8db31cc3cbe600abb5a7a6dedcd356eed0ba471af0becdcf49bf5b137"
+         },
+         "path":"mods/Jade-1.21.1-NeoForge-15.10.5.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/xuDOzCLy/versions/Z9s9lM56/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":74419,
+         "hashes":{
+            "sha1":"d0aef07e67f9e2dd7ae68f9f27d845511d8eaff3",
+            "sha512":"dcf1135718e74c55d4b01116c9955b88a8c8a5180e61dc51d292479aff3d2fff38c8ca0f1b4a6e42e54644f1c8907846a61799491df455b71541aa342d8b8896"
+         },
+         "path":"mods/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
       },
       {
          "downloads":[
@@ -318,6 +378,21 @@
             "sha512":"5e78b0d63757d5904b96e0c4565d56832ca42b1cbba939b98101f848f618cfcda94d5aeadeacb0faff85bdd05fb071f2df551a42c3e7d0e3a2564adbec227931"
          },
          "path":"mods/Ribbits-1.21.1-NeoForge-4.1.6.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neoforge-1.21.1-1.0.2.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":77326,
+         "hashes":{
+            "sha1":"5b8a0b43a474c066371b2e16f9bfb88622552a74",
+            "sha512":"d0824bac1900142ac9a53e68f7ec3b4c0d33d9366bbd3f1d0d93eed860e5eb6b5e6f5a215a69bfffa70bcb48573ff49b5a12bbaa96096ceac6636000d506027a"
+         },
+         "path":"mods/Searchables-neoforge-1.21.1-1.0.2.jar"
       },
       {
          "downloads":[
@@ -1296,6 +1371,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/YL57xq9U/versions/t3ruzodq/iris-neoforge-1.8.12%2Bmc1.21.1.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":2438548,
+         "hashes":{
+            "sha1":"a3e6355915c7d3b2bc392724795113e51d289378",
+            "sha512":"57b8026a3c3c433cf6123d63dc6ce7e11f6d480a72926370db1fc7f2b06059bc16a753ecd7e7af659c19e90b592103196b0e89585ce4f0744a4ca433f59bcf1a"
+         },
+         "path":"mods/iris-neoforge-1.8.12+mc1.21.1.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/Hrfqig7V/versions/krKMKPnO/irons_restrictions-1.21.1-5.0.8.jar"
          ],
          "env":{
@@ -1731,6 +1821,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/nmDcB62a/versions/c759JLsq/modernfix-neoforge-5.26.1%2Bmc1.21.1.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":498852,
+         "hashes":{
+            "sha1":"50abc7ff4ef2fcbc3baf4c6b96e2a7141cbd1b8a",
+            "sha512":"d6df16e21c454b86b07991408dd0eb0f611942ee01d9598375a6b0907167aaf29e2906c8ad11c5f0971979e68ea8267d9a8deb82ba638bd85ccd4265d2448a1d"
+         },
+         "path":"mods/modernfix-neoforge-5.26.1+mc1.21.1.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/twkfQtEc/versions/xnc12XKg/moonlight-1.21-2.29.16-neoforge.jar"
          ],
          "env":{
@@ -1791,6 +1896,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/yM94ont6/versions/alR8L7vF/notenoughcrashes-neoforge-4.4.9%2B1.21.1.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":598916,
+         "hashes":{
+            "sha1":"4108c653e3e0d54a6df3c5354a752ea0ea801ffe",
+            "sha512":"912c31c6e806e457a501742d668b82b70f03d5cdbb722f09da27ba19f3408f236b1704ccf9ed4a2bee82cc272ba78671bfe1fd8b46baefef1ac4ee56d703f04f"
+         },
+         "path":"mods/notenoughcrashes-neoforge-4.4.9+1.21.1.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/aWAAHxYu/versions/DagHrUgg/oaksdelight-1.0.9-neoforge-1.21.1.jar"
          ],
          "env":{
@@ -1848,6 +1968,21 @@
             "sha512":"5339ad1ed9a16238c37f0f56acc0db6242bef38358849e34b2be77f0f1fddf7012aed936ef7bd90a5ce45a4107e2d1e5ddc29f6cff2dcbc5a7ae00b509869baa"
          },
          "path":"mods/perfectparitypg-1.3.0.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/ipjNjXR5/versions/RsmsRKxG/phatores-1.0.0-neoforge-1.21.1.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":41980,
+         "hashes":{
+            "sha1":"67ab1fcea249e37d41fe6906b993c801557c75e1",
+            "sha512":"effffea72d89c448693c5b7767b43069c05354dcfed63557eaab0aad57e0991075b5118b06e0ab90923f85fd91ff7cf108a05e17ad18b11666ec34d41d3eed13"
+         },
+         "path":"mods/phatores-1.0.0-neoforge-1.21.1.jar"
       },
       {
          "downloads":[
@@ -1968,6 +2103,21 @@
             "sha512":"a79babd2e4fd42823dbbfc6afedd30e57462d693fe255b7e4306023d0567f183196c9b142356b43803ad8e503a386642aa91b9b29835f739c233bce768018d62"
          },
          "path":"mods/smarterfarmers-1.21-2.2.4-neoforge.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/PtjYWJkn/versions/pFmw1eci/sodium-extra-neoforge-0.6.0%2Bmc1.21.1.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":367047,
+         "hashes":{
+            "sha1":"7473bb42753902c639294821af13e9cd9ee735da",
+            "sha512":"6f7383ef3f4b572c76d3371a7441bc3d625db9d404cf61b249fab018bc3ffd1fa82e735ec21916df3f4072f0927dad3673efbc40bf8d11846c3d6fecc9329bb7"
+         },
+         "path":"mods/sodium-extra-neoforge-0.6.0+mc1.21.1.jar"
       },
       {
          "downloads":[
@@ -2273,6 +2423,6 @@
    "formatVersion":1,
    "game":"minecraft",
    "name":"csmp-s6",
-   "summary":"This Is For Microsoft!",
-   "versionId":"0.0.2"
+   "summary":"This is for the PC!",
+   "versionId":"0.0.3"
 }
