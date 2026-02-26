@@ -351,6 +351,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/qnQsVE2z/versions/PRtPti1t/Quark-4.1-474.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":15482779,
+         "hashes":{
+            "sha1":"a9634d9631d06a971b190c681bedebb77a7abb8d",
+            "sha512":"e04ac52b175ef81cac15d2d2c456133d29d45d6f2456ead2462fab90f7993a321731514a529fabc74b8281c4614e958742c236fe77232c908fafa50713f37dcc"
+         },
+         "path":"mods/Quark-4.1-474.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/QXBiNMjB/versions/v52iqi3g/Red%20Panda-neoforge-1.21.1-1.0.3.jar"
          ],
          "env":{
@@ -693,6 +708,21 @@
             "sha512":"d4ef831a034977abdcaec40a7662adbc37c32cf141c68245250da501f6ada2ce193c5351166fbcf2ffb1c452b60bfca8ac578963332aa4a1b523e43912b8cb8c"
          },
          "path":"mods/YungsExtras-1.21.1-NeoForge-5.1.1.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/MVARlG2f/versions/iyNxYFme/Zeta-1.1-39.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":765399,
+         "hashes":{
+            "sha1":"ef6f2e1a625a9f8770a33576b682a228e441747a",
+            "sha512":"ef4d2ad96a30fd275c2859308212845d18a086fce003d5c248934548a12a4a0fbc8fd242231c22d95a539254c635f41815f6db86065b639edc2b5efe993fce23"
+         },
+         "path":"mods/Zeta-1.1-39.jar"
       },
       {
          "downloads":[
@@ -1251,6 +1281,21 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/rH2QzhPh/versions/I8fsttD3/farmers-cutting-quark-1.21.1-1.0.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":18479,
+         "hashes":{
+            "sha1":"412df5e8095a0b30526d0f06cdce993f5a25f4f2",
+            "sha512":"f52274e7168ea3ed5188f5383c5c4410f2981cb3906c2a9b16a46e336da3769ec687cbd5c600fe2ab89c1f9be8f2f6be55f58475546df4ffad9713ee6dbd6622"
+         },
+         "path":"mods/farmers-cutting-quark-1.21.1-1.0.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/uXXizFIs/versions/x7kQWVju/ferritecore-7.0.3-neoforge.jar"
          ],
          "env":{
@@ -1788,6 +1833,21 @@
             "sha512":"5aba05ccd1ee351bf4b91560cabb81c5019b246aae24542d72bf067085ea0813f25c380f832a13f024efe246fbe2a700a40fa7daa4fbdf66cdb64f2844451824"
          },
          "path":"mods/mcwbyg-neoforge-1.21.1-1.5.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/uLtxXFVm/versions/BxzYJK1k/mcwquark-neoforge-1.21.1-1.6.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":2660631,
+         "hashes":{
+            "sha1":"5273c9f04391561c5c80fd2c3139d167b6ca81d2",
+            "sha512":"518e1fb78b6f794be80c1cc04eb25187f2ce2c275c648657573409caafd2029f869617369e7aecbbf9bfa91379c1bb30a6481a3bd9127676bd58d9ede825f43e"
+         },
+         "path":"mods/mcwquark-neoforge-1.21.1-1.6.jar"
       },
       {
          "downloads":[
@@ -2406,6 +2466,36 @@
       },
       {
          "downloads":[
+            "https://cdn.modrinth.com/data/1bokaNcj/versions/CatMvRfN/xaerominimap-neoforge-1.21.1-25.3.10.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":2137784,
+         "hashes":{
+            "sha1":"d4828332dd831455429156b6cfa24aa9bd99dd77",
+            "sha512":"97dbc7ddc8b86edead71f60e3257175abe9e05e94387447aad2467cfcf0a5211ed848ee3df9bb3c308183405f997f8acd508ac01f8ee374f08d9af00729fc1d8"
+         },
+         "path":"mods/xaerominimap-neoforge-1.21.1-25.3.10.jar"
+      },
+      {
+         "downloads":[
+            "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
+         ],
+         "env":{
+            "client":"required",
+            "server":"required"
+         },
+         "fileSize":1386001,
+         "hashes":{
+            "sha1":"c6f596bb6bc7d734100b7dbc8a57f69a5fb549a3",
+            "sha512":"a4bb890dbac27937411f570432ebc5a4cc5df9562c22e7c3d6a6516ff303bfcb7f35fb39d2ce42a51591a4b2a5b5debfc933fda3f5a552560442fe69f8828b0b"
+         },
+         "path":"mods/xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
+      },
+      {
+         "downloads":[
             "https://cdn.modrinth.com/data/1eAoo2KR/versions/7TVdVtxF/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar"
          ],
          "env":{
@@ -2422,7 +2512,6 @@
    ],
    "formatVersion":1,
    "game":"minecraft",
-   "name":"csmp-s6",
-   "summary":"This is for the PC!",
-   "versionId":"0.0.3"
+   "name":"This is for Command!",
+   "versionId":"0.0.4"
 }
