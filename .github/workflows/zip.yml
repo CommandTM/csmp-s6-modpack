@@ -5,12 +5,7 @@ jobs:
     runs-on: ubuntu-latest
     permissions:
       contents: write
-    outputs:
-      short_sha: ${{ steps.calc_sha.outputs.short_sha }}
     steps:
-    - name: Calculate short SHA
-      run: echo "short_sha=${{ github.sha::0:7 }}" >> "$GITHUB_OUTPUT"
-      id: calc_sha
     - uses: actions/checkout@master
     - name: Archive Release
       uses: thedoctor0/zip-release@0.7.5
@@ -23,7 +18,7 @@ jobs:
       id: "tag_create"
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        tag: "${{ needs.calculate_sha.outputs.short_sha }}"
+        tag: "${{ github.run_id }}"
         tag_exists_error: false
         message: "${{ github.event.head_commit.message }}"
     - name: Upload Release
@@ -32,4 +27,4 @@ jobs:
         artifacts: "csmp6-modpack.mrpack"
         token: ${{ secrets.GITHUB_TOKEN }}
         name: ${{ github.event.head_commit.message }}
-        tag: ${{ needs.calculate_sha.outputs.short_sha }}
+        tag: ${{ github.run_id }}
