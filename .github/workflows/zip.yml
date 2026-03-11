@@ -18,13 +18,13 @@ jobs:
       id: "tag_create"
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
-        tag: "${{ github.event.head_commit.message }}"
+        tag: "${{ github.event.head_commit.id }}"
         tag_exists_error: false
-        message: "Latest release"
+        message: "${{ github.event.head_commit.message }}"
     - name: Upload Release
       uses: ncipollo/release-action@v1.12.0
       with:
         artifacts: "csmp6-modpack.mrpack"
         token: ${{ secrets.GITHUB_TOKEN }}
         name: ${{ github.event.head_commit.message }}
-        tag: ${{ github.event.head_commit.message }}
+        tag: ${{ github.event.head_commit.id }}
