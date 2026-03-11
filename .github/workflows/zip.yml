@@ -11,3 +11,8 @@ jobs:
         type: 'zip'
         filename: 'csmp6-modpack.mrpack'
         exclusions: '*.git* /*node_modules/* .editorconfig'
+    - name: Upload Release
+      uses: ncipollo/release-action@v1.12.0
+      with:
+        artifacts: "csmp6-modpack.mrpack"
+        token: ${{ secrets.GITHUB_TOKEN }}
