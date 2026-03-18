@@ -66,36 +66,6 @@
       },
       {
          "downloads":[
-            "https://cdn.modrinth.com/data/8DfbfASn/versions/XIRJSFQ0/DungeonsArise-1.21.1-2.1.68-release.jar"
-         ],
-         "env":{
-            "client":"required",
-            "server":"required"
-         },
-         "fileSize":11842679,
-         "hashes":{
-            "sha1":"c651339154da7b9e9cf47a80fdef22c4d59cad5c",
-            "sha512":"cf87e06c8a49c9147fac2cf4d218d0e0eb56bb75819ab85f84ed7ae775bb3e259e2ebd5c423696d4d9026f6a69698babf5e7c82c74e480fbbf107359ef30a97e"
-         },
-         "path":"mods/DungeonsArise-1.21.1-2.1.68-release.jar"
-      },
-      {
-         "downloads":[
-            "https://cdn.modrinth.com/data/ZsrrjDbP/versions/erk04BGa/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
-         ],
-         "env":{
-            "client":"required",
-            "server":"required"
-         },
-         "fileSize":244981,
-         "hashes":{
-            "sha1":"ac9edb266a1360e9e4c80ed0b2f931f1505307eb",
-            "sha512":"14c9a833f85e343561547a5efb44a7f275b4e3fa97294ca36628c54b990a3634fb0df1223a127a02b5bdc5b113dfbfca46d76906b0efa3e797f0622cc14d3b50"
-         },
-         "path":"mods/DungeonsAriseSevenSeas-1.21.x-1.0.4-neoforge.jar"
-      },
-      {
-         "downloads":[
             "https://cdn.modrinth.com/data/R2OftAxM/versions/EVaDSbPj/FarmersDelight-1.21.1-1.2.10.jar"
          ],
          "env":{
