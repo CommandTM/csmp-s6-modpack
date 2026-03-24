@@ -52,7 +52,7 @@
 	#Set to false to simply disable all cooldowns. See warpRequirements for more fine-grained control.
 	enableCooldowns = true
 	#List of warp requirements with comma-separated parameters in parentheses. Conditions can be defined as comma-separated list in square brackets. Will be applied in order.
-	warpRequirements = ["min_xp_cost(0)", "max_xp_cost(999999999)", "[is_not_within_distance(1000) target_is_not_global] refuse(Too Far!)", "[has_cooldown(speed_limit)] refuse(Too Fast!)", "[target_is_not_global] scaled_add_level_cost(distance, 0.02)", "[target_is_not_global] add_cooldown(speed_limit, 67)", "[is_interdimensional] multiply_xp_cost(2)", "[target_is_global] multiply_xp_cost(0)"]
+	warpRequirements = ["min_xp_cost(0)", "max_xp_cost(999999999)", "[is_not_within_distance(5000) target_is_not_global] refuse(Too Far!)", "[has_cooldown(speed_limit)] refuse(Too Fast!)", "[target_is_not_global] scaled_add_level_cost(distance, 0.01)", "[target_is_not_global] add_cooldown(speed_limit, 67)", "[is_interdimensional] multiply_xp_cost(2)", "[target_is_global] multiply_xp_cost(0)"]
 	#Set to ENABLED to have nearby pets teleport with you. Set to SAME_DIMENSION to have nearby pets teleport with you only if you're not changing dimensions. Set to DISABLED to disable.
 	#Allowed Values: ENABLED, SAME_DIMENSION, DISABLED
 	transportPets = "ENABLED"
