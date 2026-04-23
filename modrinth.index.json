@@ -1056,18 +1056,33 @@
       },
       {
          "downloads":[
-            "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.9.jar"
+            "https://cdn.modrinth.com/data/LNytGWDc/versions/n7NADxiG/create-1.21.1-6.0.10.jar"
          ],
          "env":{
             "client":"required",
             "server":"required"
          },
-         "fileSize":19019888,
+         "fileSize":19123767,
          "hashes":{
-            "sha1":"bf08bf8980c080f42d6f644f4f44a725cf7c3be9",
-            "sha512":"8b3b3d9b6874f31a538add81390dff26b5f9475da6349dc52fc20dbde802edfc32ead511e12291198591574d42605f916f1acbadc2437056eea615d8586bf7cf"
+            "sha1":"0e97e49837bed766e6f28a4c95b04885d6acc353",
+            "sha512":"11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
          },
-         "path":"mods/create-1.21.1-6.0.9.jar"
+         "path":"mods/create-1.21.1-6.0.10.jar"
+      },
+      {
+         "downloads": [
+            "https://cdn.modrinth.com/data/oWaK0Q19/versions/1sv6OtSz/create-aeronautics-bundled-1.21.1-1.1.3.jar"
+         ],
+         "env": {
+            "client": "required",
+            "server": "required"
+         },
+         "fileSize": 33003314,
+         "hashes": {
+            "sha1": "320d5c580462fb4bdec3d99837f16e842c314ff6",
+            "sha512": "94831bc4702b3864524258fa0a73a50ab3cd37e9c157b5c6688a6845b866ec5838452804050b55e490549d91dad909fc37f0d619f354c5676e2e2651b9c15ec6"
+         },
+         "path": "mods/create-aeronautics-bundled-1.21.1-1.1.3.jar"
       },
       {
          "downloads":[
@@ -2195,6 +2210,21 @@
          "path":"mods/rusticdelight-neoforge-1.21-1.5.3.jar"
       },
       {
+         "downloads": [
+            "https://cdn.modrinth.com/data/T9PomCSv/versions/g8CObHcP/sable-neoforge-1.21.1-1.1.3.jar"
+         ],
+         "env": {
+            "client": "required",
+            "server": "required"
+         },
+         "fileSize": 24766579,
+         "hashes": {
+            "sha1": "98b491efe417046ced3fc4b2e45f603b5007c972",
+            "sha512": "8180e214681c171c9e3b7fa307f7a92bd7de0b8125d671291425f04a4ba26b408758d8ea80a6386d8e73bb1e6b02caf3f20afb9b91ecedd48c37ed44363ac961"
+         },
+         "path": "mods/sable-neoforge-1.21.1-1.1.3.jar"
+      },
+      {
          "downloads":[
             "https://cdn.modrinth.com/data/iSkQCp6b/versions/eJfr27xY/simplehats-neoforge-1.21.1-0.4.0.jar"
          ],
@@ -2587,6 +2617,6 @@
    ],
    "formatVersion":1,
    "game":"minecraft",
-   "name":"Cat SMP Season 6 PRERELEASE",
-   "versionId":"0.9.9"
+   "name":"Cat SMP Season 6 Aeronautics Demo",
+   "versionId":"0.10.0"
 }
