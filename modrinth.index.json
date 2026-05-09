@@ -500,21 +500,6 @@
          "path":"mods/VanillaBackport-neoforge-1.21.1-1.1.5.4.2.jar"
       },
       {
-         "downloads": [
-            "https://cdn.modrinth.com/data/ayWsj31j/versions/q4MJ1X5o/VistaAeronauticsFix-1.0.0.jar"
-         ],
-         "env": {
-            "client": "required",
-            "server": "unsupported"
-         },
-         "fileSize": 155054,
-         "hashes": {
-            "sha1": "a00cfcd468377fa210e917b4ff7c6c662e97320e",
-            "sha512": "61604de7d7976335b6a6dda63be04218883811562fd1e70ef030bff7be7a621c69f7a20e50087d995194478983c0ecd79791bbea2812192615e22a171b0720ac"
-         },
-         "path": "mods/VistaAeronauticsFix-1.0.0.jar"
-      },
-      {
          "downloads":[
             "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar"
          ],
@@ -2523,21 +2508,6 @@
             "sha512":"d1e196607f1bc6a7a375cbfd0d7c1bcc7c902c67db87d42302c08cd7d121e1ca448d17585cf01ad86417fb60d965b6d3c63457a3b4258b5167325ae2b4a88f7b"
          },
          "path":"mods/villager_brain_config-neoforge-1.0.1-1.21.1.jar"
-      },
-      {
-         "downloads": [
-            "https://cdn.modrinth.com/data/zuARv1N7/versions/RztslvZ6/vista-neoforge-1.21.1-3.2.1.jar"
-         ],
-         "env": {
-         "client": "required",
-         "server": "required"
-         },
-         "fileSize": 5303445,
-         "hashes": {
-            "sha1": "b6e5035bcdb0979243f7cfa2f25feb3c1b95b7a2",
-            "sha512": "f42ebf12e27c082d0b979eee81dba36f84400ff1c8777b87f5253474d3e23547529ed3c9902291319260f0957cc62717258fc41962ab4bc5c008048e3e67e110"
-         },
-         "path": "mods/vista-neoforge-1.21.1-3.2.1.jar"
       },
       {
          "downloads":[
