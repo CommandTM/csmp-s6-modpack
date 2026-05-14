@@ -2016,21 +2016,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/TIo1UXXV/versions/HBBTbjLH/more-enchantment-info-0.4.1.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 558066,
-      "hashes": {
-        "sha1": "f3431134b0215ada3a14a347d38035cc8c566dc9",
-        "sha512": "512d0a920d12bcc2cfd0ab4447036b0d99f27214be5e5e4717a6f11c88651b5a90c613af4dff4c59d68781e649c3cdbab8c2ddbb0572afe5ddc3dad064adac7c"
-      },
-      "path": "mods/more-enchantment-info-0.4.1.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/qPfNr476/versions/aFluEQDH/neoforge-dungeonsdelight-1.21.1-1.5.0.jar"
       ],
       "env": {
