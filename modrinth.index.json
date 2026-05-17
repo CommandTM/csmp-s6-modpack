@@ -501,21 +501,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/ayWsj31j/versions/q4MJ1X5o/VistaAeronauticsFix-1.0.0.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "unsupported"
-      },
-      "fileSize": 155054,
-      "hashes": {
-        "sha1": "a00cfcd468377fa210e917b4ff7c6c662e97320e",
-        "sha512": "61604de7d7976335b6a6dda63be04218883811562fd1e70ef030bff7be7a621c69f7a20e50087d995194478983c0ecd79791bbea2812192615e22a171b0720ac"
-      },
-      "path": "mods/VistaAeronauticsFix-1.0.0.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/Ua7DFN59/versions/ZB22DE9q/YungsApi-1.21.1-NeoForge-5.1.6.jar"
       ],
       "env": {
@@ -1071,21 +1056,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/oWaK0Q19/versions/YhZLrAFC/create-aeronautics-bundled-1.21.1-1.2.1.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 33030286,
-      "hashes": {
-        "sha1": "fdf1ae69e8b6437e0196b3a35dd2325aa904aba9",
-        "sha512": "c7899f8a693cf1b4c17a31faf64e631383f6df331b82b517ed6abe01b0464a9f10b226f0336fa8611c5af514375716c4d009d55c7f92640445c68239b63ebc03"
-      },
-      "path": "mods/create-aeronautics-bundled-1.21.1-1.2.1.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/ATDdrG1y/versions/SdEofplJ/create_hypertube-0.4.0-COMPAT-NEOFORGE.jar"
       ],
       "env": {
@@ -1128,6 +1098,21 @@
         "sha512": "2f56328d84c15bf41fe689c39c19c11b7c58eaf72f846d35ba78f323fbca6c11229706400826cfaf152043fe3f8943a853d1362d7433e13a2eb76e647d09d2da"
       },
       "path": "mods/create_wizardry-1.21.1-0.4.2.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/GWp4jCJj/versions/bsGaXKEd/createbigcannons-5.11.3%2Bmc.1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 3715787,
+      "hashes": {
+        "sha1": "8b61fa850e260bdeb5d360576123f98c260afa50",
+        "sha512": "f75a8bbdc9fc67c09eac6d78e8ad92583a342d54ab70e91923c52cd9b42987765e9a84e43e9c3e175593982aed80fe960a96561d9cd1ed62c4c966818346b466"
+      },
+      "path": "mods/createbigcannons-5.11.3+mc.1.21.1.jar"
     },
     {
       "downloads": [
@@ -1443,6 +1428,21 @@
         "sha512": "9747fb8aa6214d9fb2612441a623dbe7f43010814de6bc127c73cf160f2399bbff212e5fd85a6129602d7288b71aaf817f34fcedd9886a1083bdc011aff40457"
       },
       "path": "mods/guardvillagers-2.4.7-1.21.1.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/x3HZvrj6/versions/lEyfKM50/immersive_aircraft-1.4.3%2B1.21.1-neoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2444626,
+      "hashes": {
+        "sha1": "ba66e5fa04484bd95a1002b03f44da41ebe27f23",
+        "sha512": "b97ab8da190209187f2fa22ad85d874b106cea60fc21a211245699e84d2f4178da264d0d84842ebccf63f4bda37211ec694bf9369103fd89bf89f70b19b140f4"
+      },
+      "path": "mods/immersive_aircraft-1.4.3+1.21.1-neoforge.jar"
     },
     {
       "downloads": [
@@ -2211,6 +2211,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/B3pb093D/versions/hZ6B2Z0x/ritchiesprojectilelib-2.1.2%2Bmc.1.21.1-neoforge.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 76369,
+      "hashes": {
+        "sha1": "ec2e4996f8bee8714173e603e379fef8a6901765",
+        "sha512": "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a41e758313cbf0d6f95d9a1f53bd67339020f7d8db0e184c23f66aee0330"
+      },
+      "path": "mods/ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/foa4fGIH/versions/1h2Mvp8M/rusticdelight-neoforge-1.21-1.6.0.jar"
       ],
       "env": {
@@ -2223,21 +2238,6 @@
         "sha512": "2a1f519d99129354d7575e2baa3213e5f96bbe297b19b1d7b4be945accf8da46a3d5c8b5415bc9e292e6ea75bf5ab0884c4f78cbfa0d92efa01744a587d167ef"
       },
       "path": "mods/rusticdelight-neoforge-1.21-1.6.0.jar"
-    },
-    {
-      "downloads": [
-        "https://cdn.modrinth.com/data/T9PomCSv/versions/3FMsUjO4/sable-neoforge-1.21.1-1.2.2.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 12719293,
-      "hashes": {
-        "sha1": "c5ecd3fcf60a31d84112c708abe29e341b2d1b73",
-        "sha512": "eb7c46649f5aa359f688fecacfa348b205dff0cfc2d27694632c2e1e1f8f4dbab2c31bdc95b2577201529b2597afe49328c7ad8c348d25eaca109f1a02667534"
-      },
-      "path": "mods/sable-neoforge-1.21.1-1.2.2.jar"
     },
     {
       "downloads": [
@@ -2648,5 +2648,5 @@
    "formatVersion":1,
    "game":"minecraft",
    "name":"Cat SMP Season 6",
-   "versionId":"1.0.6"
+   "versionId":"1.1.0"
 }
