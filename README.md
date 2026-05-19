@@ -8,5 +8,5 @@ This modpack was handmade for our server, but we think it could be a fun collect
 ## Extra Install Steps
 This modpack was intended to ship with 3 additional mods, however due to licensing issues you will have to add them yourself. Links to the specifically intended version will be included below, sorry!
 - [Atlas API (1.2.0)](https://www.curseforge.com/minecraft/mc-mods/atlas-api/files/6880789)
-- [Iron's Gems N' Jewelry (1.6.0)](https://www.curseforge.com/minecraft/mc-mods/irons-jewelry/files/7358426)
-- [The Twilight Forest (4.8.3287)](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/7398100)
+- [Iron's Gems N' Jewelry (1.6.1.1)](https://www.curseforge.com/minecraft/mc-mods/irons-jewelry/files/7907343)
+- [The Twilight Forest (4.8.3345)](https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest/files/7797302)
