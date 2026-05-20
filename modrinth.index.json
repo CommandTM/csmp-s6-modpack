@@ -2331,21 +2331,6 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tyVnEa75/sliceanddice-forge-4.2.4.jar"
-      ],
-      "env": {
-        "client": "required",
-        "server": "required"
-      },
-      "fileSize": 406699,
-      "hashes": {
-        "sha1": "13d8835813b3851d4818c59ec8f7124e4a826c14",
-        "sha512": "3834893ba6614befba87e6be13481bedfa7bce1ba196e75a6e8335b4718be772481f7ef6bea10b22fbcf154b0147ea97536102ddcf70912e5843f547ee3f711d"
-      },
-      "path": "mods/sliceanddice-forge-4.2.4.jar"
-    },
-    {
-      "downloads": [
         "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/odppGdXf/smarterfarmers-1.21-2.2.4-neoforge.jar"
       ],
       "env": {
