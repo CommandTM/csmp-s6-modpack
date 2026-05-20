@@ -6,6 +6,21 @@
    "files": [
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/iMAVG2nH/versions/UlajPCS1/Analog-Audio-0.1.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 2029363,
+      "hashes": {
+        "sha1": "be36cce01ec27fd6514e27010c22730399281cec",
+        "sha512": "e282c1b9887e61863f04ad6eab8d7e1a8fe0e51cdbe3978197f9b875ca567d247cae7506d9b7e7f3f47170eac5142331459a36b8f045ff8215433f0360dde496"
+      },
+      "path": "mods/Analog-Audio-0.1.0.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/Lvv4SHrK/versions/xv5fSPWX/BetterThanMending-2.2.0.jar"
       ],
       "env": {
@@ -63,6 +78,21 @@
         "sha512": "d5461d5fab247fe2d30ba5578c7768cf3c4c8758b155acb5c901913c22c43ddd6af6e7dbd5ae4cca8b106f7e2953b4427c0a97e53869861d64b0266c825d178b"
       },
       "path": "mods/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/dzb1a5WV/versions/r0TIh2nX/CreateDragonsPlus-1.10.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 759631,
+      "hashes": {
+        "sha1": "0759898cc7ca22ece49e7d7a210db8becfd79cdf",
+        "sha512": "cb8ff236250d346f7c76d534a5cd12f75b081d05b542c54cac49cc430a4539061f05562f10b8ba8503423fb6044666418a355aeae31a4e34615d0da41fa14967"
+      },
+      "path": "mods/CreateDragonsPlus-1.10.1.jar"
     },
     {
       "downloads": [
@@ -183,6 +213,21 @@
         "sha512": "9a4f8c32e65d5f9451edcf1a584b22b9f590dab2cfb3efb68ef2b4c042d8ff39dcfdaddba0a9d615c7af4ecfa1cefda417c8972d7dcb54e574837ec81d6939b0"
       },
       "path": "mods/JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/WkBD5Cw5/versions/XfEg8dtc/LetMeFeedYou-neoforge-1.21.1-1.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 8799,
+      "hashes": {
+        "sha1": "9b7f0df588e323b8118e95cdadacfbd0e3316c69",
+        "sha512": "c84015cbcc01acecdf7d99a48ce3e772f97ca1067c63fd862e59a0ae72b0b2f3da3e33b9239bd30054453c39cad6f31057685f46e7e3fb46ff6975504cbf24f2"
+      },
+      "path": "mods/LetMeFeedYou-neoforge-1.21.1-1.1.jar"
     },
     {
       "downloads": [
@@ -786,6 +831,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/sdaSaQEz/versions/vvzNMESp/almostunified-neoforge-1.21.1-1.4.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 295072,
+      "hashes": {
+        "sha1": "69913ae6d63f2e10603b272bb8a957c7d0f3f0e4",
+        "sha512": "cb96a81a3bd4291113655097f66f5b0944b0fcf049bac663b0116b639b0989dbf5701d3ffa191df2735bd9af18bd66bca5e206bd2367b2b2dd143ee989284a81"
+      },
+      "path": "mods/almostunified-neoforge-1.21.1-1.4.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/EnHNgJd3/versions/mezaRu6I/amwplushies-neoforge-1.21.1-5.0.3.jar"
       ],
       "env": {
@@ -1056,6 +1116,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/OnioDxG7/versions/d07lPdQ4/cow_tools-1.0.2%2B1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 24915,
+      "hashes": {
+        "sha1": "8344f32d4388f0b6c70dd74cc96d00d642142463",
+        "sha512": "0c79de298845fbc6508b5ca3492789822b0990792f865c7f1d646f4f0230755021cf924cb50742fe681778e838a17cda0f2353ea7f8930a9f4282d48c1ce7192"
+      },
+      "path": "mods/cow_tools-1.0.2+1.21.1.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/pJGcKPh1/versions/Ix4uAd2i/corpsecurioscompat-1.21.1-NeoForge-4.0.1.jar"
       ],
       "env": {
@@ -1083,6 +1158,21 @@
         "sha512": "11cc8fc049d2f67f6548c7abfada6b82a3adb5c7ca410a742de04bbca76e03862c518721b88d806f6e6d768a4d68531fdb903a85859b25d1484d550cc7bafd4b"
       },
       "path": "mods/create-1.21.1-6.0.10.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/btq68HMO/versions/TUJIHmUh/create-central-kitchen-2.4.0.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 342464,
+      "hashes": {
+        "sha1": "6a91f304a1e023e8b9b34ccf95f19dd74c3edd55",
+        "sha512": "adcdb5a85b2dd727fa2b0563aa9e73d26b58ee3ae57192e049f0c2a1e4a878dc9d07fe20589f6e52e6f4be2ba1bb5ab3a64f5fcf5f1f9a42b9518e7c2380fd23"
+      },
+      "path": "mods/create-central-kitchen-2.4.0.jar"
     },
     {
       "downloads": [
@@ -2493,6 +2583,21 @@
         "sha512": "9fd0e156697c2e56960a52747a33c0ee8e391cb90f89e93af6a79d333272153bd789ac4341967b0c3ea745a72bd654ae88076b48181464ea62c7bebc01159dac"
       },
       "path": "mods/supplementaries-neoforge-1.21.1-3.6.4.jar"
+    },
+    {
+      "downloads": [
+        "https://cdn.modrinth.com/data/2UJdja33/versions/pVB6oiZ7/swingthroughgrass-neoforge-1.0.0-1.21.1.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 6098,
+      "hashes": {
+        "sha1": "99ce70dd8028873d0da9b77905a7e4313e4bc722",
+        "sha512": "b4cbb3c69c6c7fc52a89ef97595553092ff8806a48301dacf4186444103c1a27e7f762de1d75fcd2a54e61fdaeef7c295212a3f477957f1abf0f3e21e5822c15"
+      },
+      "path": "mods/swingthroughgrass-neoforge-1.0.0-1.21.1.jar"
     },
     {
       "downloads": [
