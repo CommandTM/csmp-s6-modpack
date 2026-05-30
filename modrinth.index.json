@@ -501,6 +501,21 @@
     },
     {
       "downloads": [
+        "https://cdn.modrinth.com/data/c4Uf1TKc/versions/kNnLN8Mm/Truly-Modular-miapi-neoforge-2.3.6-1.21.jar"
+      ],
+      "env": {
+        "client": "required",
+        "server": "required"
+      },
+      "fileSize": 3766436,
+      "hashes": {
+        "sha1": "e7bfb8a927945bb1f7b0ca9c35a06cfcb8f6791a",
+        "sha512": "874b62e80a850276864354780a9eeee9c8c4d1115c98178d7736fc82428bf42765e8818854383d24edb3936e0117ef1cbb87f6356c45627b529c9b66ffbcd92a"
+      },
+      "path": "mods/Truly-Modular-miapi-neoforge-2.3.6-1.21.jar"
+    },
+    {
+      "downloads": [
         "https://cdn.modrinth.com/data/CzM6C1W0/versions/iTRbN0Dn/UsefulSlime-neoforge-1.21-1.12.1.jar"
       ],
       "env": {
@@ -2798,5 +2813,5 @@
    "formatVersion":1,
    "game":"minecraft",
    "name":"Cat SMP Season 6",
-   "versionId":"2.2.0"
+   "versionId":"2.3.0"
 }
