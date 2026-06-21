@@ -501,18 +501,18 @@
     },
     {
       "downloads": [
-        "https://cdn.modrinth.com/data/c4Uf1TKc/versions/kNnLN8Mm/Truly-Modular-miapi-neoforge-2.3.6-1.21.jar"
+        "https://cdn.modrinth.com/data/c4Uf1TKc/versions/Iz6PGmyD/Truly-Modular-miapi-neoforge-2.3.8-1.21.jar"
       ],
       "env": {
         "client": "required",
         "server": "required"
       },
-      "fileSize": 3766436,
+      "fileSize": 3921752,
       "hashes": {
-        "sha1": "e7bfb8a927945bb1f7b0ca9c35a06cfcb8f6791a",
-        "sha512": "874b62e80a850276864354780a9eeee9c8c4d1115c98178d7736fc82428bf42765e8818854383d24edb3936e0117ef1cbb87f6356c45627b529c9b66ffbcd92a"
+        "sha1": "ba3b6df1eee9c8dd897748725509aa808ec300bb",
+        "sha512": "5fb24dc923bc3de100946509dc5e80b0e70b74a1a9407b54d5fef7dce4666dc1c53ede833f22aa840dea7b1a248f682b42b15ed9885a2bea1aa2b715c247ae9b"
       },
-      "path": "mods/Truly-Modular-miapi-neoforge-2.3.6-1.21.jar"
+      "path": "mods/Truly-Modular-miapi-neoforge-2.3.8-1.21.jar"
     },
     {
       "downloads": [
@@ -2813,5 +2813,5 @@
    "formatVersion":1,
    "game":"minecraft",
    "name":"Cat SMP Season 6",
-   "versionId":"2.3.0"
+   "versionId":"2.4.0"
 }
